@@ -5,6 +5,8 @@ Main purpose was to learn about basic GUI in Windows and get information from di
 
 Initial version of program can take a screenshot by clicking a button or a user specified key combination. Currently key combination has to be alphabetical with optionally used with Ctrl and/or Alt
 
+Video: https://www.youtube.com/watch?v=FCXSuduGiOw
+
 <Pre>
 Run ScreenCapturer.exe and fill out fields:
   - "Directory Path:" User can enter an absolute or relative (from ScreenCapturer.exe) path for the directory where the screenshot will be saved. Default is C:\ScreenShots\
